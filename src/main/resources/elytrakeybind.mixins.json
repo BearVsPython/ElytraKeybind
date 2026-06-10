@@ -3,7 +3,7 @@
   "package": "com.nrojb.elytrakeybind.mixin",
   "compatibilityLevel": "JAVA_21",
   "mixins": [
-    "ElytraItemMixin"
+    "LivingEntityMixin"
   ],
   "injectors": {
     "defaultRequire": 1
