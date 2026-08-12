@@ -1,4 +1,8 @@
 {
   "elytrakeybind.configuration.disableChatMessages": "Disable Chat Messages",
+  "elytrakeybind.configuration.showEnabledIcon": "Show Enabled Icon",
+  "elytrakeybind.configuration.showDisabledIcon": "Show Disabled Icon",
+  "elytrakeybind.configuration.iconXPosition": "X Position",
+  "elytrakeybind.configuration.iconYPosition": "Y Position",
   "key.elytrakeybind.category": "ElytraKeybind"
 }
